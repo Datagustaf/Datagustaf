@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Välkommen till min hemsida!
 
 You can use the [editor on GitHub](https://github.com/Datagustaf/Minhemsida/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
