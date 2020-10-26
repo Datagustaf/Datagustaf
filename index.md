@@ -5,6 +5,9 @@ Jag heter Gustaf och håller på att lära mig mer om hur man kodar.
 
 Jag har precis börjat lära mig grunderna i HTML, CSS, JavaScript och Markdown.
 
+### Min programmeringsdagbok:
+* [2020-10-26](/2020-10-26)
+
 ### Spel som jag tycker om att spela:
 * Among Us
 * Minecraft
