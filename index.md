@@ -16,4 +16,4 @@ Jag har precis börjat lära mig grunderna i HTML, CSS, JavaScript och Markdown.
 []()
 []()
 
-![Grön Among Us astronaut](https://www.citypng.com/photo/4736/black-among-us-character-png)
+![Among Us astronaut](https://i.redd.it/fhn28srebvo51.png)
