@@ -15,8 +15,9 @@ Jag har precis börjat lära mig grunderna i HTML, CSS, JavaScript och Markdown.
 #### Bra Länkar:
 * [Fyndhörnan på Inet.se](https://www.inet.se/fyndhornan)
 * [W3Schools på Svenska](https://translate.google.se/translate?hl=sv&sl=en&u=https://www.w3schools.com/&prev=search&pto=aue)
+* [Mozilla - Lär dig webbutveckling](https://developer.mozilla.org/sv-SE/docs/Learn)
 * [9 HTML-lektioner på Svenska](https://monkeytoys.com/htmlkurs/)
-* [Webbsida.org - Lär dig HTML, CSS och JavaScript](https://webbsida.org/hemsida)
+* [Webbkoda.se](https://webbkoda.se)
 
 ![Among Us astronaut](https://i.redd.it/fhn28srebvo51.png)
 
